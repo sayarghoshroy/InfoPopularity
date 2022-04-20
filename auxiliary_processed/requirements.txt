@@ -1,0 +1,5 @@
+nltk==3.4
+tqdm==4.49.0
+numpy==1.19.2
+datasets==1.4.1
+rouge==1.0.0
